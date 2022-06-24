@@ -21,3 +21,5 @@ function shadow(e) {
         ${yWalk * -1}px ${xWalk}px 0 rgba(0,0,255,0.7)
     `;
 }
+
+hero.addEventListener('mousemove', shadow);
