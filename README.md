@@ -6,7 +6,7 @@ No JavaScript é possível saber o que o nosso teclado faz, quais são as teclas
 o mouse, acompanhar tudo que ele faz, até a movimentação dele, com o mousemove().
 <br/>
 Teste aqui : https://sombra-do-mouse-devypnym1-felpsalvs.vercel.app/<br/>
-15/30 <br/>
+16/30 <br/>
 https://JavaScript30.com 
 
 ### 🚀 Tecnologias
